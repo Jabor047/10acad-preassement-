@@ -1,0 +1,16 @@
+*.docx
+*.zip
+*.csv
+*.mp4
+*.mov
+*.7z
+*.pbix
+*.pdf
+*.gform
+*.db
+*.cfg
+temp/
+data/
+Lib/
+Scripts/
+virtualenviroment/
